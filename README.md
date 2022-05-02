@@ -1,3 +1,5 @@
 # Naive_String_Matching
-Naive String Matching Algorithm
+###python : Naive String Matching Algorithm
+##An algorithm that searches for a String pattern and counts how many times have been repeated
+
 # OthDr 
